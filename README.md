@@ -34,7 +34,9 @@
 - 🎧 Listening to all my favorite jams on <a href="https://www.deezer.com/br/profile/2705224682/playlists">Deezer</a>
 <br>
 
-![image](https://user-images.githubusercontent.com/55036173/114277567-118d0a00-9a02-11eb-9b0e-0934959977fb.png)
+![image](https://user-images.githubusercontent.com/55036173/114278075-5d40b300-9a04-11eb-8583-405f9af344f9.png)
+
+
 
 
 
