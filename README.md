@@ -16,7 +16,7 @@
 - 😄 Pronouns: She/her
 -  👩‍🎓 Also Agronomist
 -  💘 I love challenges
-- ⚡ Curiosity: I really love corn flakes ❤
+- ⚡ Curiosity: I really love corn flakes ❤🥣🌾
 
 
 ### Techs 💻  
