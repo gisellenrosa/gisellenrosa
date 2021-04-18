@@ -2,12 +2,13 @@
 
 ### Hi there I'm a Full-Stack Developer Student.👋
 
-![image](https://user-images.githubusercontent.com/55036173/114277640-5dd84a00-9a02-11eb-8d52-39df046a1c71.png)
+![image](https://user-images.githubusercontent.com/55036173/115146017-2a617500-a02b-11eb-9110-c1dbec610ba8.png)
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55036173/114277900-9167a400-9a03-11eb-9459-a55ee1c50c83.png"  width="500" />
+  <img src="https://user-images.githubusercontent.com/55036173/115146444-ed967d80-a02c-11eb-98b5-d9324a3e1061.png"  width="500"/>
 </p>
+
  
 - 🌱 I’m currently learning: React, Typescript, API REST and NodeJS
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gisellenrosa/)](https://www.linkedin.com/in/gisellenrosa/)
@@ -34,8 +35,7 @@
 - 🎧 Listening to all my favorite jams on <a href="https://www.deezer.com/br/profile/2705224682/playlists">Deezer</a>
 <br>
 
-![image](https://user-images.githubusercontent.com/55036173/114278075-5d40b300-9a04-11eb-8583-405f9af344f9.png)
-
+![giselle2](https://user-images.githubusercontent.com/55036173/115146025-3c431800-a02b-11eb-8834-05f61569612b.png)
 
 
 
