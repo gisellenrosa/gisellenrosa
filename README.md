@@ -34,6 +34,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-original.svg" alt="typescript" width="50" />  
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" />
 </p>
+
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/GisellenRosa/">LinkedIn</a>
 - 🎧 Listening to all my favorite jams on <a href="https://www.deezer.com/br/profile/2705224682/playlists">Deezer</a>
