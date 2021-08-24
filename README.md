@@ -10,7 +10,7 @@
 </p>
 
  
-- 🌱 I’m currently learning: React, Typescript, API REST and NodeJS
+- 🌱 I’m currently learning: Java, Kotlin and Docker
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gisellenrosa/)](https://www.linkedin.com/in/gisellenrosa/)
    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gisellenrosa@gmail.com)](mailto:gisellenrosa@gmail.com/)
 -  🌍 Languages: Portuguese and English
