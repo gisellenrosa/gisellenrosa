@@ -1,6 +1,6 @@
 
 
-### Hi there I'm a Back-End developer.👋
+### Hi there I'm a Full-Stack developer.👋
 
 ![image](https://user-images.githubusercontent.com/55036173/115146017-2a617500-a02b-11eb-9110-c1dbec610ba8.png)
 
